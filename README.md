@@ -1,4 +1,4 @@
-# Competición de Kaggle W7 [Ironhack](https://www.ironhack.com/) Data ABRIL'23:snake: 
+# Competición de Kaggle - W7 [Ironhack](https://www.ironhack.com/) Data ABRIL'23:snake: 
 
 
 <p align="center"> <img src="https://github.com/Ironhack-Data-Madrid-Abril-2023/w7-project_kaggle/blob/main/lapsimg.jpg">  </p>
@@ -29,8 +29,8 @@ Enlace a la competición: https://www.kaggle.com/competitions/predict-the-price-
 *   `GPU` - GPU type
 *   `Operating System` - OS
 *   `Operating System Version` OS Version
-*   `Weight` - Weight in kg
-*   `Price` - Price (currency: Sonic Rings) ;)
+*   `Weight` - Weight (kg)
+*   `Price` - Price (currency: Sonic Rings) 😜
 
 
 ## 📈OBJECTIVO
@@ -43,6 +43,6 @@ Enlace a la competición: https://www.kaggle.com/competitions/predict-the-price-
 
 <br />
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <bn > 💁🏻‍♀️💁🏻  ORI, YONA Y CARLOS LES DESEAMOS HAPPY MACHINE LEARNING WEEK  <bn />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <bn > 💁🏻‍♀️💁🏻  ORI, YONA Y CARLOS OS DESEAMOS HAPPY MACHINE LEARNING WEEK  <bn />
 
 <p align="center"> <img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/jijiji.gif" width="500" height="250">   </p>
