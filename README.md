@@ -35,11 +35,11 @@ Enlace a la competición: https://www.kaggle.com/competitions/predict-the-price-
 
 ## 📈OBJECTIVO
 
-- Preparar los datos para los diversos modelos (proceso empírico) 
-- Entrenar y Testear modelos de Machine Learning
-- Subir los resultados con el mejor modelo entrenado de Machine Learning
-- Hacer pull request con la presentación  
-- Crear repo propio del proyecto (issue)
+- Preparar los datos para los diversos modelos (proceso empírico). 
+- Entrenar y Testear modelos de Machine Learning.
+- Subir los resultados con el mejor modelo entrenado de Machine Learning.
+- Crear repo propio del proyecto (issue).
+- Hacer presentación (PPT/Canva/etc) en el repo.
 
 <br />
 
