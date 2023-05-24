@@ -1,6 +1,6 @@
 # Competición de Kaggle para Bootcamp de Data ABRIL'23:snake: semana 7 en [Ironhack](https://www.ironhack.com/)
 
-<p align="center"> <img src="https://github.com/Ironhack-Data-Madrid-Abril-2023/w7-project_kaggle/blob/main/lapsimg.jpg" width="800" height="400">  </p>
+<p align="center"> <img src="https://github.com/Ironhack-Data-Madrid-Abril-2023/w7-project_kaggle/blob/main/lapsimg.jpg">  </p>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [¡¡¡QUE EMPIECE EL JUEGO!!!](
 http://www.kaggle.com/competitions/predict-salary-for-data-science-jobs)  
