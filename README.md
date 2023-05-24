@@ -1,5 +1,5 @@
-# Competición de Kaggle para Bootcamp de Data ABRIL'23:snake: 
-W7 [Ironhack](https://www.ironhack.com/)
+# Competición de Kaggle W7 [Ironhack](https://www.ironhack.com/) Data ABRIL'23:snake: 
+
 
 <p align="center"> <img src="https://github.com/Ironhack-Data-Madrid-Abril-2023/w7-project_kaggle/blob/main/lapsimg.jpg">  </p>
 
