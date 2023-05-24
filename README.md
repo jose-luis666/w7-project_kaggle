@@ -33,7 +33,7 @@ Enlace a la competición: https://www.kaggle.com/competitions/predict-the-price-
 *   `Price` - Price (currency: Sonic Rings) 😜
 
 
-## 📈OBJECTIVO
+## 📈OBJETIVO
 
 - Preparar los datos para los diversos modelos (proceso empírico). 
 - Entrenar y Testear modelos de Machine Learning.
